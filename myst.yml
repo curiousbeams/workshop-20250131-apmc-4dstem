@@ -1,7 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  id: colab-apmc2025-4dstem-workshop
+  id: curious-beams-workshop-20250131-apmc-4dstem
   title: APMC2025 | 4D-STEM workshop
   description: 4D-STEM simulation and analysis workshop, as taught by Georgios Varnavides at the 13th Asia Pacific Microscopy Congress 2025.
   short_title: 4D-STEM Workshop
@@ -12,16 +12,8 @@ project:
     - Phase Contrast Imaging
     - Nanobeam Diffraction
     - Strain and Orientation Mapping
-  github: https://github.com/ophusgroup/apmc2025-4dstem-workshop
+  github: https://github.com/curiousbeams/workshop-20250131-apmc-4dstem
   jupyter: true
-  #  jupyter:
-  #    binder:
-  #      url: https://y2j74k9mn0bz.curvenote.dev/services/binder/
-  #      repo: msa-em/em-quickstart-uv
-  #  jupyter:
-  #    server:
-  #      url: 'http://localhost:8888'
-  #      token: '512ac78f14e1141db1fac17e8b4099c1e5bc7d589518b38c'
   open_access: true
   license: CC-BY-4.0
   thumbnail: thumbnail.webm
