@@ -16,7 +16,7 @@ project:
   jupyter: true
   open_access: true
   license: CC-BY-4.0
-  thumbnail: thumbnail.webm
+  thumbnail: ./figures/prism_expansion_placeholder.png
   date: 2025-01-31
   requirements:
     - 'Dockerfile'
